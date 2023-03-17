@@ -19,5 +19,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://opensource.org/license/mit/)
 
-![Screenshot of the Project](img\Screenshott.png)
+![Screenshot of the Project](img/Screenshott.png)
 
