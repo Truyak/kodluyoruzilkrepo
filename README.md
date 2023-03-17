@@ -19,5 +19,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://opensource.org/license/mit/)
 
-![enter image description here](https://prnt.sc/Yj4rZDwgxP1H)
+![enter image description here](img/screenshot.png)
 
